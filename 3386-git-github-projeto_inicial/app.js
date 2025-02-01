@@ -63,15 +63,4 @@ function reiniciarJogo() {
     tentativas = 1;
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
-<<<<<<< HEAD
 }
-=======
-}
-
-
-
-
-
-
-
->>>>>>> parent of 0e059cf (alterando limite para 100)
